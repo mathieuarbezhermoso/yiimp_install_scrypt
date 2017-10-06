@@ -70,17 +70,6 @@ To start all your yiimp service just create a file named start_screen.sh in /usr
 
 ```sudo nano screen_start.sh
 #!/bin/bash
-################################################################################
-# Author: crombiecrunch
-#
-# Web: www.thecryptopool.com
-#
-# Program:
-#   After entering coin name and github link automatically build coin
-# BTC Donation: 1KuE2LMZMPXJ4gsVniWLuyyPsqqZs5Av4y
-#
-################################################################################
-
 
 LOG_DIR=/var/log
 WEB_DIR=/var/web
